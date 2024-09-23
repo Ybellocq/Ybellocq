@@ -13,7 +13,8 @@ Ce que je n'avais pas pu accomplir à la fin de mes études, je l'ai finalement 
 À 32 ans, j'ai embrassé un parcours étudiant dans une nouvelle région, prêt à relever de nouveaux défis et à construire une carrière dans le développement de logiciels.
 
 -----------------------------------------------
-![image](https://github.com/user-attachments/assets/93a0f693-f401-43d8-a4b8-9241c6a942d8)
+![image](https://github.com/user-attachments/assets/02b80d98-7fe8-431f-a30a-4689ddc80654)
+
 
 Yoann Bellocq - Développeur Web et Logiciel
 
