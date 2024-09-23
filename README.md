@@ -15,7 +15,9 @@ Ce que je n'avais pas pu accomplir à la fin de mes études, je l'ai finalement 
 -----------------------------------------------
 
 ![Python-logo-notext svg](https://github.com/user-attachments/assets/da8bddf1-4d4c-4dff-90f7-407880f2fd50)
+![Docker_logo](https://github.com/user-attachments/assets/15c49bc3-8298-4b98-a8bc-0d3fae9e14f1)
 
+![quasar dark](https://github.com/user-attachments/assets/d07ba058-44d8-4b0b-9f27-210af09e1a58)
 
 
 
