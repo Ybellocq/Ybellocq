@@ -1,4 +1,4 @@
-🔭 Je travaille actuellement sur des applications web et des projets logiciels complexes. 
+🔭 Je travaille actuellement sur des applications web et des projets logiciels complexes. </br>
 🌱 J'apprends actuellement de nouvelles technologies, notamment les méthodologies agiles et le développement full-stack.
 👯 Je recherche des collaborations sur des projets open-source ou des hackathons.
 🤔 Je suis à la recherche de conseils pour améliorer mes compétences en architecture logicielle.
