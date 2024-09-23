@@ -1,10 +1,10 @@
 🔭 Je travaille actuellement sur des applications web et des projets logiciels complexes. </br>
-🌱 J'apprends actuellement de nouvelles technologies, notamment les méthodologies agiles et le développement full-stack.
-👯 Je recherche des collaborations sur des projets open-source ou des hackathons.
-🤔 Je suis à la recherche de conseils pour améliorer mes compétences en architecture logicielle.
-💬 Posez-moi des questions sur le C, C++, PHP, Symfony, Vue.js, ou toute autre technologie que j'utilise.
-📫 Comment me joindre : [bellocq.yoann@gmail.com](mailto:bellocq.yoann@gmail.com).
-⚡ Fun fact : Je suis passionné par les défis techniques.
+🌱 J'apprends actuellement de nouvelles technologies, notamment les méthodologies agiles et le développement full-stack.</br>
+👯 Je recherche des collaborations sur des projets open-source ou des hackathons.</br>
+🤔 Je suis à la recherche de conseils pour améliorer mes compétences en architecture logicielle.</br>
+💬 Posez-moi des questions sur le C, C++, PHP, Symfony, Vue.js, ou toute autre technologie que j'utilise.</br>
+📫 Comment me joindre : [bellocq.yoann@gmail.com](mailto:bellocq.yoann@gmail.com).</br>
+⚡ Fun fact : Je suis passionné par les défis techniques.</br>
 
 Après une carrière de 14 ans dans le commerce, où j'ai eu l'opportunité de gravir les échelons et de réaliser mon objectif de gérer plusieurs magasins, j'ai pris la décision de revenir à ma véritable passion : le développement de logiciels.
 
