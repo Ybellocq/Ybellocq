@@ -13,7 +13,7 @@ Ce que je n'avais pas pu accomplir à la fin de mes études, je l'ai finalement 
 À 32 ans, j'ai embrassé un parcours étudiant dans une nouvelle région, prêt à relever de nouveaux défis et à construire une carrière dans le développement de logiciels.
 
 -----------------------------------------------
-
+![screenshot](MySQL.svg.png)
 Yoann Bellocq - Développeur Web et Logiciel
 
 Étudiant à l’École 42, je suis passionné par le développement de solutions innovantes et l’optimisation des performances techniques. Mon parcours me permet de maîtriser plusieurs langages de programmation, dont C, C++, PHP, ainsi que des frameworks modernes comme Symfony et Vue.js. Je suis particulièrement à l'aise dans des environnements macOS, Linux, Ubuntu, avec une gestion avancée de Git pour le contrôle de versions et la collaboration en équipe.
