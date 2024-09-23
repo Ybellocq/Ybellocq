@@ -14,13 +14,6 @@ Ce que je n'avais pas pu accomplir à la fin de mes études, je l'ai finalement 
 
 -----------------------------------------------
 
-![Python-logo-notext svg](https://github.com/user-attachments/assets/da8bddf1-4d4c-4dff-90f7-407880f2fd50)
-![Docker_logo](https://github.com/user-attachments/assets/15c49bc3-8298-4b98-a8bc-0d3fae9e14f1)
-
-![quasar dark](https://github.com/user-attachments/assets/d07ba058-44d8-4b0b-9f27-210af09e1a58)
-
-
-
 Yoann Bellocq - Développeur Web et Logiciel
 
 Étudiant à l’École 42, je suis passionné par le développement de solutions innovantes et l’optimisation des performances techniques. Mon parcours me permet de maîtriser plusieurs langages de programmation, dont C, C++, PHP, ainsi que des frameworks modernes comme Symfony et Vue.js. Je suis particulièrement à l'aise dans des environnements macOS, Linux, Ubuntu, avec une gestion avancée de Git pour le contrôle de versions et la collaboration en équipe.
