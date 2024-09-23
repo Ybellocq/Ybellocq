@@ -14,7 +14,8 @@ Ce que je n'avais pas pu accomplir à la fin de mes études, je l'ai finalement 
 
 -----------------------------------------------
 
-![image](https://github.com/user-attachments/assets/291735ae-ec06-4dd0-8923-1f3bbb753666)
+![Python-logo-notext svg](https://github.com/user-attachments/assets/da8bddf1-4d4c-4dff-90f7-407880f2fd50)
+
 
 
 
