@@ -1,28 +1,13 @@
-🔭 Je travaille actuellement sur des applications web et des projets logiciels complexes. </br>
-🌱 J'apprends actuellement de nouvelles technologies, notamment les méthodologies agiles et le développement full-stack.</br>
-👯 Je recherche des collaborations sur des projets open-source ou des hackathons.</br>
-🤔 Je suis à la recherche de conseils pour améliorer mes compétences en architecture logicielle.</br>
-💬 Posez-moi des questions sur le C, C++, PHP, Symfony, Vue.js, ou toute autre technologie que j'utilise.</br>
-📫 Comment me joindre : [bellocq.yoann@gmail.com](mailto:bellocq.yoann@gmail.com).</br>
-⚡ Fun fact : Je suis passionné par les défis techniques.</br>
-
-Après une carrière de 14 ans dans le commerce, où j'ai eu l'opportunité de gravir les échelons et de réaliser mon objectif de gérer plusieurs magasins, j'ai pris la décision de revenir à ma véritable passion : le développement de logiciels.
-
-Ce que je n'avais pas pu accomplir à la fin de mes études, je l'ai finalement entrepris en changeant de voie pour me consacrer pleinement à ce domaine qui m'a toujours fasciné. J'ai ainsi décidé de prendre un nouveau départ et de me lancer dans ce qui me motive le plus.
-
-À 32 ans, j'ai embrassé un parcours étudiant dans une nouvelle région, prêt à relever de nouveaux défis et à construire une carrière dans le développement de logiciels.
-
------------------------------------------------
-
-Yoann Bellocq - Développeur Web et Logiciel
-
-Étudiant à l’École 42, je suis passionné par le développement de solutions innovantes et l’optimisation des performances techniques. Mon parcours me permet de maîtriser plusieurs langages de programmation, dont C, C++, PHP, ainsi que des frameworks modernes comme Symfony et Vue.js. Je suis particulièrement à l'aise dans des environnements macOS, Linux, Ubuntu, avec une gestion avancée de Git pour le contrôle de versions et la collaboration en équipe.
-
-Parmi mes réalisations notables, j’ai développé un serveur IRC en C++ pour la gestion de salons de discussion en temps réel, ainsi qu’un jeu de Pong jouable contre une IA et en mode 1v1. J'ai également travaillé sur des projets plus complexes comme la gestion de la concurrence avec des threads pour le projet "Philosophers", la création d’algorithmes optimisés pour le tri de données dans "Push_swap", et l'installation sécurisée d’un serveur Linux dans le cadre du projet "Born2beroot".
-
-En parallèle, j’ai participé à plusieurs hackathons, ce qui m'a permis de développer des compétences avancées en résolution de problèmes techniques, en travail d'équipe, et en développement agile.
-
-Lors de mon stage de six mois à la Caisse Nationale des Allocations Familiales (CNAF), j’ai eu l’opportunité de collaborer avec un concepteur développeur sur des applications web innovantes, où j’ai pris en charge la correction de bugs, l'ajout de nouvelles fonctionnalités, et l’optimisation des performances des applications. Travailler en environnement agile m’a permis d’améliorer ma capacité à respecter les délais tout en assurant la qualité du code livré.
-
-Toujours en quête de nouveaux défis, je recherche actuellement une alternance pour un master de deux ans, où je pourrai mettre à profit mes compétences techniques et mon esprit créatif pour contribuer au succès d’une entreprise tout en approfondissant mes connaissances. Mon objectif est d’apporter une plus-value technique à chaque projet auquel je participe, tout en continuant à évoluer dans le domaine du développement web et logiciel.
-
+Salut ! 👋
+Je bosse actuellement sur des apps web et quelques projets perso assez costauds. En ce moment, je me forme sur les méthodes agiles et le full-stack - toujours quelque chose de nouveau à apprendre dans ce métier !
+Si tu as des projets open-source ou des hackathons qui t'intéressent, n'hésite pas à me faire signe. Je cherche aussi des retours d'expérience sur l'architecture logicielle, c'est un domaine où j'ai encore pas mal à apprendre.
+Tu peux me contacter sur bellocq.yoann@gmail.com si tu veux discuter de C, C++, PHP, Symfony, Vue.js ou autre.
+Mon parcours en quelques mots :
+J'ai passé 14 ans dans le commerce, où j'ai fini par gérer plusieurs magasins. C'était bien, mais au fond, j'avais toujours cette envie de coder qui me trottait dans la tête depuis mes études.
+À 32 ans, j'ai décidé de tout plaquer pour me reconvertir. Changement de région, retour sur les bancs d'école à 42... Autant dire que c'était un sacré pari ! Mais bon, parfois il faut savoir prendre des risques.
+Ce que je fais maintenant :
+Je suis étudiant à l'École 42, et franchement, j'adore ça. J'ai bossé sur des trucs sympas : un serveur IRC en C++, un Pong avec IA, des algorithmes de tri optimisés... Le projet "Philosophers" sur la gestion des threads m'a particulièrement plu, même si j'ai arraché quelques cheveux dessus !
+J'ai fait un stage de 6 mois à la CNAF où j'ai pu mettre les mains dans du vrai code en production. Debug, nouvelles fonctionnalités, optimisations... C'était génial de voir l'impact concret de mon travail.
+Aujourd'hui :
+Je cherche une alternance pour un master de deux ans. L'idée, c'est de continuer à apprendre tout en apportant ma pierre à l'édifice dans une boîte qui me fait confiance. J'aime les défis techniques et j'ai cette manie de vouloir toujours optimiser ce sur quoi je travaille.
+Voilà, c'est moi ! Si tu veux discuter code, reconversion, ou juste prendre un café virtuel, je suis là.
